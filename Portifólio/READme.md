@@ -1,1 +1,0 @@
-Olá! Esse é o meu portifólio! Desenvolvi enquanto estava me aperfeiçoando em desenvolvimento web. As tecnologias usadas foram:HTML e CSS. A seguir, compartilho algumas das minhas principais informações profissionais com vocês!
